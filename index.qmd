@@ -57,4 +57,4 @@ This analysis addresses five critical questions about flights:
 
 **Dataset**: Airline On-Time Performance and Causes of Delay (April 2019)
 
-**Author**: Joshua Lin | DSAN 6300 Mini Project
+**Author**: Joshua Lin | DSAN 6300 Project

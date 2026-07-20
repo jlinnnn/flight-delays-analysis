@@ -22,7 +22,7 @@ This Quarto website presents a comprehensive analysis of airline on-time perform
 ## Project Structure
 
 ```
-DSAN_6300_MINI_PROJECT/
+DSAN_6300_PROJECT/
 ├── index.qmd              # Homepage
 ├── analysis.qmd           # Full analysis with visualizations
 ├── about.qmd              # Project details and methodology

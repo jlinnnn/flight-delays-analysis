@@ -1,4 +1,4 @@
--- Mini Project
+-- Project
 -- 1) Find maximal departure delay in minutes for each airline. Sort results from smallest to largest maximum delay. Output airline names and values of the delay.
 SELECT l_ai_d.Name,
        MAX(a.DepDelayMinutes) AS MaxDepDelay
