@@ -73,7 +73,7 @@ The analysis utilized a dimensional data model with:
 ## Project Structure
 
 ```
-DSAN_6300_MINI_PROJECT/
+DSAN_6300_PROJECT/
 ├── index.qmd                  # Homepage
 ├── analysis.qmd               # Full analysis with visualizations
 ├── about.qmd                  # This page

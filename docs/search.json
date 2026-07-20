@@ -207,7 +207,7 @@
     "href": "about.html#project-structure",
     "title": "About This Project",
     "section": "Project Structure",
-    "text": "Project Structure\nDSAN_6300_MINI_PROJECT/\n├── index.qmd                  # Homepage\n├── analysis.qmd               # Full analysis with visualizations\n├── about.qmd                  # This page\n├── _quarto.yml                # Website configuration\n├── styles.css                 # Custom styling\n└── SQL_exports/               # Query results\n    ├── Problem01.csv          # Max delays by airline\n    ├── Problem02.csv          # Early departures\n    ├── Problem03.csv          # Day of week patterns\n    ├── Problem04.csv          # Worst airport overall\n    ├── Problem05.csv          # Worst airport per airline\n    ├── Problem06a.csv         # Cancellation counts\n    ├── Problem06b.csv         # Cancellation reasons\n    └── Problem07.csv          # Daily flight patterns"
+    "text": "Project Structure\nDSAN_6300_PROJECT/\n├── index.qmd                  # Homepage\n├── analysis.qmd               # Full analysis with visualizations\n├── about.qmd                  # This page\n├── _quarto.yml                # Website configuration\n├── styles.css                 # Custom styling\n└── SQL_exports/               # Query results\n    ├── Problem01.csv          # Max delays by airline\n    ├── Problem02.csv          # Early departures\n    ├── Problem03.csv          # Day of week patterns\n    ├── Problem04.csv          # Worst airport overall\n    ├── Problem05.csv          # Worst airport per airline\n    ├── Problem06a.csv         # Cancellation counts\n    ├── Problem06b.csv         # Cancellation reasons\n    └── Problem07.csv          # Daily flight patterns"
   },
   {
     "objectID": "about.html#author",
