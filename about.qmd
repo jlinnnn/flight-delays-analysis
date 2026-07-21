@@ -99,7 +99,7 @@ Student, Data Science and Analytics (DSAN)
 Georgetown University
 
 **Course**: DSAN 5550 - Database Management
-**Semester**: Fall 2025
+**Semester**: Fall 2024
 
 ---
 
