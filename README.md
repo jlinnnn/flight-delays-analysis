@@ -22,7 +22,7 @@ This Quarto website presents a comprehensive analysis of airline on-time perform
 ## Project Structure
 
 ```
-DSAN_6300_PROJECT/
+DSAN_5550_PROJECT/
 ├── index.qmd              # Homepage
 ├── analysis.qmd           # Full analysis with visualizations
 ├── about.qmd              # Project details and methodology
@@ -50,7 +50,7 @@ The rendered site will be in the `_site/` directory.
 ## Author
 
 **Joshua Lin**
-Georgetown University - DSAN 6300
+Georgetown University - DSAN 5550
 Fall 2025
 
 

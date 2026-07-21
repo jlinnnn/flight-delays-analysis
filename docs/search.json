@@ -165,21 +165,21 @@
     "href": "index.html#quick-findings",
     "title": "A Deep Dive into U.S. Airline Performance",
     "section": "Quick Findings",
-    "text": "Quick Findings\n\n\n\n\n\n\nTop Insights\n\n\n\n\n\nSystem Volume: Monday is the busiest day with 106,575 flights; Saturday sees the lowest volume\nAirline Delays: Maximum delay recorded was 2,620 minutes (43+ hours); some flights departed 60 minutes early\nAirport Performance: Southwest Oregon Regional Airport averages 47-minute delays on every departure\nCancellations: 14,488 flights cancelled in April 2019; weather is the dominant cause at most airports\nBusiness Travel: Pronounced weekday peaks show business travel, not leisure, drives the industry\n\n\n\n\nData Source: U.S. Department of Transportation, Bureau of Transportation Statistics\nDataset: Airline On-Time Performance and Causes of Delay (April 2019)\nAuthor: Joshua Lin | DSAN 6300 Project"
+    "text": "Quick Findings\n\n\n\n\n\n\nTop Insights\n\n\n\n\n\nSystem Volume: Monday is the busiest day with 106,575 flights; Saturday sees the lowest volume\nAirline Delays: Maximum delay recorded was 2,620 minutes (43+ hours); some flights departed 60 minutes early\nAirport Performance: Southwest Oregon Regional Airport averages 47-minute delays on every departure\nCancellations: 14,488 flights cancelled in April 2019; weather is the dominant cause at most airports\nBusiness Travel: Pronounced weekday peaks show business travel, not leisure, drives the industry\n\n\n\n\nData Source: U.S. Department of Transportation, Bureau of Transportation Statistics\nDataset: Airline On-Time Performance and Causes of Delay (April 2019)\nAuthor: Joshua Lin | DSAN 5550 Project"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About This Project",
     "section": "",
-    "text": "This website presents a comprehensive analysis of U.S. airline performance data, examining flight delays, cancellations, and operational patterns across airlines and airports. The project was completed as part of DSAN 6300 coursework, demonstrating skills in:\n\nDatabase design and SQL query development\nData analysis and statistical interpretation\nData visualization and storytelling"
+    "text": "This website presents a comprehensive analysis of U.S. airline performance data, examining flight delays, cancellations, and operational patterns across airlines and airports. The project was completed as part of DSAN 5550 coursework, demonstrating skills in:\n\nDatabase design and SQL query development\nData analysis and statistical interpretation\nData visualization and storytelling"
   },
   {
     "objectID": "about.html#project-overview",
     "href": "about.html#project-overview",
     "title": "About This Project",
     "section": "",
-    "text": "This website presents a comprehensive analysis of U.S. airline performance data, examining flight delays, cancellations, and operational patterns across airlines and airports. The project was completed as part of DSAN 6300 coursework, demonstrating skills in:\n\nDatabase design and SQL query development\nData analysis and statistical interpretation\nData visualization and storytelling"
+    "text": "This website presents a comprehensive analysis of U.S. airline performance data, examining flight delays, cancellations, and operational patterns across airlines and airports. The project was completed as part of DSAN 5550 coursework, demonstrating skills in:\n\nDatabase design and SQL query development\nData analysis and statistical interpretation\nData visualization and storytelling"
   },
   {
     "objectID": "about.html#data-source",
@@ -207,14 +207,14 @@
     "href": "about.html#project-structure",
     "title": "About This Project",
     "section": "Project Structure",
-    "text": "Project Structure\nDSAN_6300_PROJECT/\n├── index.qmd                  # Homepage\n├── analysis.qmd               # Full analysis with visualizations\n├── about.qmd                  # This page\n├── _quarto.yml                # Website configuration\n├── styles.css                 # Custom styling\n└── SQL_exports/               # Query results\n    ├── Problem01.csv          # Max delays by airline\n    ├── Problem02.csv          # Early departures\n    ├── Problem03.csv          # Day of week patterns\n    ├── Problem04.csv          # Worst airport overall\n    ├── Problem05.csv          # Worst airport per airline\n    ├── Problem06a.csv         # Cancellation counts\n    ├── Problem06b.csv         # Cancellation reasons\n    └── Problem07.csv          # Daily flight patterns"
+    "text": "Project Structure\nDSAN_5550_PROJECT/\n├── index.qmd                  # Homepage\n├── analysis.qmd               # Full analysis with visualizations\n├── about.qmd                  # This page\n├── _quarto.yml                # Website configuration\n├── styles.css                 # Custom styling\n└── SQL_exports/               # Query results\n    ├── Problem01.csv          # Max delays by airline\n    ├── Problem02.csv          # Early departures\n    ├── Problem03.csv          # Day of week patterns\n    ├── Problem04.csv          # Worst airport overall\n    ├── Problem05.csv          # Worst airport per airline\n    ├── Problem06a.csv         # Cancellation counts\n    ├── Problem06b.csv         # Cancellation reasons\n    └── Problem07.csv          # Daily flight patterns"
   },
   {
     "objectID": "about.html#author",
     "href": "about.html#author",
     "title": "About This Project",
     "section": "Author",
-    "text": "Author\nJoshua Lin Student, Data Science and Analytics (DSAN) Georgetown University\nCourse: DSAN 6300 - Database Management Semester: Fall 2025"
+    "text": "Author\nJoshua Lin Student, Data Science and Analytics (DSAN) Georgetown University\nCourse: DSAN 5550 - Database Management Semester: Fall 2025"
   },
   {
     "objectID": "about.html#technologies-used",
