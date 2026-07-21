@@ -4,7 +4,7 @@ title: "About This Project"
 
 ## Project Overview
 
-This website presents a comprehensive analysis of U.S. airline performance data, examining flight delays, cancellations, and operational patterns across airlines and airports. The project was completed as part of **DSAN 5550** coursework, demonstrating skills in:
+This website presents a comprehensive analysis of U.S. airline performance data, examining flight delays, cancellations, and operational patterns across airlines and airports. The project was completed as part of **DSAN 6700** coursework, demonstrating skills in:
 
 - Database design and SQL query development
 - Data analysis and statistical interpretation
@@ -73,7 +73,7 @@ The analysis utilized a dimensional data model with:
 ## Project Structure
 
 ```
-DSAN_5550_PROJECT/
+DSAN_6700_PROJECT/
 ├── index.qmd                  # Homepage
 ├── analysis.qmd               # Full analysis with visualizations
 ├── about.qmd                  # This page
@@ -98,8 +98,8 @@ DSAN_5550_PROJECT/
 Student, Data Science and Analytics (DSAN)
 Georgetown University
 
-**Course**: DSAN 5550 - Database Management
-**Semester**: Fall 2024
+**Course**: DSAN 6700 - Database Management
+**Semester**: Fall 2025
 
 ---
 
