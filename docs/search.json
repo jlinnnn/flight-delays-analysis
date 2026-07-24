@@ -193,7 +193,7 @@
     "href": "about.html#methodology",
     "title": "About This Project",
     "section": "Methodology",
-    "text": "Methodology\n\nDatabase Design\nThe analysis utilized a dimensional data model with:\n\nFact Table: al_perf containing flight performance metrics\nDimension Tables:\n\nL_AIRLINE_ID: Airline names and codes\nL_AIRPORT_ID / L_AIRPORT: Airport identifiers and locations\nL_WEEKDAYS: Day of week mappings\nL_CANCELATION: Cancellation reason codes\n\n\n\n\nAnalysis Tools\n\nSQL: PostgreSQL for data querying and aggregation\nR: Data manipulation and visualization\n\ntidyverse for data wrangling\nggplot2 for visualization\nkableExtra for formatted tables\n\nQuarto: Website generation and publishing"
+    "text": "Methodology\n\nDatabase Design\nThe analysis utilized a dimensional data model with:\n\nFact Table: al_perf containing flight performance metrics\nDimension Tables:\n\nL_AIRLINE_ID: Airline names and codes\nL_AIRPORT_ID / L_AIRPORT: Airport identifiers and locations\nL_WEEKDAYS: Day of week mappings\nL_CANCELATION: Cancellation reason codes\n\n\n\n\nAnalysis Tools\n\nSQL: MySQL (hosted on AWS) for data querying and aggregation\nR: Data manipulation and visualization\n\ntidyverse for data wrangling\nggplot2 for visualization\nkableExtra for formatted tables\n\nQuarto: Website generation and publishing"
   },
   {
     "objectID": "about.html#key-findings-summary",

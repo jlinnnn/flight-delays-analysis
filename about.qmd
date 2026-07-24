@@ -45,7 +45,7 @@ The analysis utilized a dimensional data model with:
 
 ### Analysis Tools
 
-- **SQL**: PostgreSQL for data querying and aggregation
+- **SQL**: MySQL (hosted on AWS) for data querying and aggregation
 - **R**: Data manipulation and visualization
   - `tidyverse` for data wrangling
   - `ggplot2` for visualization

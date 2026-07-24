@@ -10,7 +10,7 @@ This Quarto website presents a comprehensive analysis of airline on-time perform
 - Airport performance bottlenecks
 - Cancellation causes and patterns
 
-**Live Website**: [URL will be added after GitHub Pages deployment]
+**Live Website**: [https://jlinnnn.github.io/flight-delays-analysis/](https://jlinnnn.github.io/flight-delays-analysis/)
 
 ## Key Findings
 
